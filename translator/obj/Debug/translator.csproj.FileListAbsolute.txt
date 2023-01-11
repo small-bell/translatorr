@@ -1,0 +1,13 @@
+E:\cpp\translator\translator\translator\bin\Debug\translator.exe.config
+E:\cpp\translator\translator\translator\bin\Debug\translator.exe
+E:\cpp\translator\translator\translator\bin\Debug\translator.pdb
+E:\cpp\translator\translator\translator\obj\Debug\translator.csprojAssemblyReference.cache
+E:\cpp\translator\translator\translator\obj\Debug\translator.Properties.Resources.resources
+E:\cpp\translator\translator\translator\obj\Debug\translator.csproj.GenerateResource.cache
+E:\cpp\translator\translator\translator\obj\Debug\translator.csproj.CoreCompileInputs.cache
+E:\cpp\translator\translator\translator\obj\Debug\translator.exe
+E:\cpp\translator\translator\translator\obj\Debug\translator.pdb
+E:\cpp\translator\translator\translator\obj\Debug\translator.MainForm.resources
+E:\cpp\translator\translator\translator\bin\Debug\Newtonsoft.Json.dll
+E:\cpp\translator\translator\translator\bin\Debug\Newtonsoft.Json.xml
+E:\cpp\translator\translator\translator\obj\Debug\translator.csproj.CopyComplete

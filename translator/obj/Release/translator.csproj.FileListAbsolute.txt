@@ -1,0 +1,12 @@
+E:\cpp\translator\translator\translator\bin\Release\translator.exe.config
+E:\cpp\translator\translator\translator\bin\Release\translator.exe
+E:\cpp\translator\translator\translator\bin\Release\translator.pdb
+E:\cpp\translator\translator\translator\bin\Release\Newtonsoft.Json.dll
+E:\cpp\translator\translator\translator\bin\Release\Newtonsoft.Json.xml
+E:\cpp\translator\translator\translator\obj\Release\translator.MainForm.resources
+E:\cpp\translator\translator\translator\obj\Release\translator.Properties.Resources.resources
+E:\cpp\translator\translator\translator\obj\Release\translator.csproj.GenerateResource.cache
+E:\cpp\translator\translator\translator\obj\Release\translator.csproj.CoreCompileInputs.cache
+E:\cpp\translator\translator\translator\obj\Release\translator.csproj.CopyComplete
+E:\cpp\translator\translator\translator\obj\Release\translator.exe
+E:\cpp\translator\translator\translator\obj\Release\translator.pdb
